@@ -1,0 +1,57 @@
+form{
+    justify-content: center;
+}
+.rate {
+    float: left;
+    height: 46px;
+    padding: 0px 600px;
+    padding-left:340px;
+    font-size: 34px;
+}
+
+.rating{
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 260px;
+}
+.check{
+    margin-top: 20px;
+    text-align: center;
+    margin-right: 150px;
+}
+.select{
+    padding-top: 20px;
+     padding-left: 340px;
+     margin-right: 60px;
+}
+.warm{
+    padding-left:91px;
+}
+.clear{
+    padding-left:136px;
+}
+button{
+    margin-top: 20px;
+    margin: 10px;
+    text-align: center;
+    padding: 15px 300px 15px 223px;
+    background-color:rgb(244, 193, 99);
+    color: white;
+    font-size: large;
+    border: none;
+}
+.image{
+    width: 30px;
+    height: 30px;
+    margin-left: 530px;
+    position: relative;
+    top: 30px;
+}
+.company{
+    text-align: center;
+    padding-top: 0px;
+    color: rgb(190, 74, 74);
+}
+.title{
+    margin-bottom: 40px;
+}
